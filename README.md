@@ -1,0 +1,2 @@
+# Data-Analysis-in-Health-Sciences
+These are problems involving a master's level course I took involving data analysis in health sciences. Univariate and multivariate statistical techniques for continuous and dichotomous outcomes. Focus on multiple linear and logistic regression models and additional topics such as Poisson and polytomous regression, conditional logistic regression, introduction to survival analysis models and introduction to correlated data analysis. R software was used.
